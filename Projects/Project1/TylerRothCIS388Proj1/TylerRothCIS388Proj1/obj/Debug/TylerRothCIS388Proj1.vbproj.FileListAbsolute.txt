@@ -1,0 +1,16 @@
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.frmMain.resources
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.vbproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\images\image1.png
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\images\image3.png
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\images\image4.png
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\TylerRothCIS388Proj1.exe.config
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\TylerRothCIS388Proj1.exe
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\TylerRothCIS388Proj1.pdb
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\TylerRothCIS388Proj1.xml
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.Resources.resources
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.exe
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.xml
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.pdb
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\bin\Debug\images\image2.png
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.vbprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\ClientServer Side Applications CIS 338\Project1\TylerRothCIS388Proj1\TylerRothCIS388Proj1\obj\Debug\TylerRothCIS388Proj1.SummaryForm.resources
